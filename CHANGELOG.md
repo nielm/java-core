@@ -1,5 +1,17 @@
 # Changelog
 
+### [1.93.8](https://www.github.com/googleapis/java-core/compare/v1.93.7...v1.93.8) (2020-07-24)
+
+
+### Bug Fixes
+
+* docs of com.google.cloud.Timestamp.parseTimestamp ([#258](https://www.github.com/googleapis/java-core/issues/258)) ([964dd14](https://www.github.com/googleapis/java-core/commit/964dd142609ae8923a285e20746ce9ee8c302bd5))
+
+
+### Dependencies
+
+* update dependency com.google.api-client:google-api-client-bom to v1.30.10 ([#253](https://www.github.com/googleapis/java-core/issues/253)) ([0fd53fe](https://www.github.com/googleapis/java-core/commit/0fd53fe522e35fdd09783bb618ff7dcf01d82a95))
+
 ### [1.93.7](https://www.github.com/googleapis/java-core/compare/v1.93.6...v1.93.7) (2020-07-08)
 
 
